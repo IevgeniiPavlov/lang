@@ -1,0 +1,15 @@
+header {
+  background-color: #8b2e2e;
+}
+
+body {
+  background: rgba(29, 122, 151, 0.575);
+  margin-left: 20px;
+  border: 5px;
+  padding: 0px;
+  font-size: 20px;
+}
+
+.title__part1 {
+  font-size: 15px;
+}
